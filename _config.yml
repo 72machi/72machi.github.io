@@ -30,7 +30,7 @@ twitter_username: ---
 github_username:  72machi
 
 # Build settings
-theme: minima
+# theme: minima
 theme: just-the-docs
 plugins:
   - jekyll-feed
